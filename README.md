@@ -8,5 +8,9 @@ Each image is paired with a segmentation mask where pixel values indicate:
 * 0 – region of no interest
 
 The segmentation masks are generated using annotation files (.roi) and the roi_utils module.
+
+
 **Dataset note**
+
+
 ⚠️ The dataset used in this project is not publicly available. It is a private dataset provided by Professor Napoli and cannot be shared or redistributed. Any attempt to reproduce the results will require access to equivalent private histological image data.
